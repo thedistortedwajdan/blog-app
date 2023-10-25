@@ -1,0 +1,44 @@
+.nav {
+    width: 100vw;
+    height: 50px;
+    background-color: wheat;
+    position: sticky;
+    top: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navCenterlist {
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.navListItem {
+    margin-right: 2vw;
+    font-size: 1.5vw;
+    cursor: pointer;
+    list-style: none;
+
+}
+
+.navRight {
+    display: flex;
+    align-items: center;
+}
+
+.navImg {
+    width: 2vw;
+    height: 2vw;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.nav-icons {
+    font-size: 2vw;
+    margin-right: 1vw;
+    cursor: pointer;
+}
