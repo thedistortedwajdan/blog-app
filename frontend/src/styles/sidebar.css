@@ -1,5 +1,6 @@
 .sidebar {
     flex: 3;
+    height: fit-content;
     margin: 20px;
     padding-bottom: 30px;
     background-color: wheat;
@@ -28,6 +29,7 @@
 
 .sideBarImg {
     margin-top: 15px;
+    object-fit: contain;
 }
 
 .sideBarItem>p {
