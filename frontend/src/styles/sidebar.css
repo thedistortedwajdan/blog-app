@@ -1,6 +1,7 @@
 .sidebar {
     flex: 3;
     height: fit-content;
+    width: fit-content;
     margin: 20px;
     padding-bottom: 30px;
     background-color: wheat;
