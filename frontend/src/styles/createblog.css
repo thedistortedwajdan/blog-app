@@ -1,0 +1,49 @@
+.createblog {
+    padding-top: 50px;
+}
+
+.blog-form {
+    position: relative;
+}
+
+.form-group {
+    margin-left: 150px;
+    display: flex;
+    align-items: center;
+}
+
+.blog-icon {
+    width: 25px;
+    height: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.blog-input {
+    font-size: 30px;
+    border: none;
+    padding: 20px;
+    width: 70vw;
+}
+
+.blog-text {
+    font-size: 20px;
+    
+}
+
+
+.submit {
+    position: absolute;
+    /* top: 20px; */
+    bottom: -60px;
+    right: 350px;
+    color: white;
+    background-color: teal;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+
+}
